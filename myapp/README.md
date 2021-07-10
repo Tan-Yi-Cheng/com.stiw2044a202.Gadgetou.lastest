@@ -1,6 +1,6 @@
-# myapp
+# Gadgetou
 
-A new Flutter project.
+This is the latest Mobile Programming Project.
 
 ## Getting Started
 
